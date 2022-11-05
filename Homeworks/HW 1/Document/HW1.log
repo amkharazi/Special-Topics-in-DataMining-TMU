@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.23)  5 NOV 2022 23:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.23)  5 NOV 2022 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,7 +1173,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 114.
 
 [1
 
-] [2] [3] [4] (c:/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+] [2] [3] [4] [5] (c:/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 File: fig1.png Graphic file (type bmp)
@@ -1181,7 +1181,7 @@ File: fig1.png Graphic file (type bmp)
 File: fig2.png Graphic file (type bmp)
 <fig2.png>
 
-Underfull \hbox (badness 1708) in paragraph at lines 511--511
+Underfull \hbox (badness 1708) in paragraph at lines 538--538
 [][]\TU/XBYas(0)/m/n/10.95 (ب) |خوشه‌بندی با روش سلسه مراتبی نرم ۱ و[]
  []
 
@@ -1189,13 +1189,13 @@ File: fig3.png Graphic file (type bmp)
 <fig3.png>
 File: fig4.png Graphic file (type bmp)
 <fig4.png>
-[5] [6]
+[6]
 File: fig9.png Graphic file (type bmp)
 <fig9.png>
 File: fig6.png Graphic file (type bmp)
 <fig6.png>
 
-Underfull \hbox (badness 1708) in paragraph at lines 621--621
+Underfull \hbox (badness 1708) in paragraph at lines 648--648
 [][]\TU/XBYas(0)/m/n/10.95 (ب) |خوشه‌بندی با روش سلسه مراتبی نرم ۱ و[]
  []
 
@@ -1212,7 +1212,7 @@ Package rerunfilecheck Info: File `HW1.out' has not changed.
 Here is how much of TeX's memory you used:
  27351 strings out of 476919
  537186 string characters out of 5825424
- 1098114 words of memory out of 5000000
+ 1097451 words of memory out of 5000000
  46770 multiletter control sequences out of 15000+600000
  410880 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
